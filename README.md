@@ -1,4 +1,4 @@
-raspberrypi
+raspberry-install
 ===========
 
-Raspberry Pi Settings and more
+My Raspberry Pi installation scripts, settings and more
